@@ -14,20 +14,7 @@
 - Exploratory Data Analysis (EDA)  
 - Machine Learning  
 - Predictive Modeling  
-- API Integration  
 - Data Visualization  
-
----
-
-## Experience
-
-**ShadowFox – Machine Learning Intern**  
-- Worked on ML workflows  
-- Performed data analysis and preprocessing  
-
-**InternPro – Data Science Intern**  
-- Applied machine learning models on real datasets  
-- Built analytical insights from structured data  
 
 ---
 
