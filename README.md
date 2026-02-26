@@ -1,5 +1,21 @@
-I’m Mythili S, a passionate Information Technology student focused on Data Science, Machine Learning, and intelligent system design. I enjoy transforming complex datasets into meaningful insights and building applications that solve real-world problems.<br><br>Currently pursuing my degree at Panimalar Engineering College, developing hands-on experience in Python, data analytics, API integration, and predictive modeling. My work blends analytical thinking with creativity — whether it's building AI-powered assistants, forensic analysis tools, or live prediction systems.<br><br>Through internships at ShadowFox and InternPro, I gained practical exposure to machine learning workflows, exploratory data analysis, and impactful data visualization for decision-making.<br><br>As a Tamil Nadu Police Hackathon Finalist 2025, I thrive in high-pressure, innovation-driven environments where ideas turn into functional prototypes quickly.<br><br>I believe in continuous learning, building with purpose, and using technology to create scalable, intelligent, and impactful solutions.
+# Hi! I"m Mythili
+*Information Technology student at Panimalar Engineering College
+*Focused on Data Science, Machine Learning, and intelligent system design
+*Skilled in transforming complex datasets into actionable insights
+*Interested in building real-world, problem-solving applications
 
+#Skills & Interests
+*Python
+*Data Analytics and Exploratory Data Analysis
+*Machine Learning and Predictive Modeling
+*Data Visualization
+
+#Internships
+Intern at ShadowFox – Worked on ML workflows and data analysis
+Intern at InternPro – Applied machine learning models on real datasets
+
+#Achievement
+Finalist – Tamil Nadu Police Hackathon 2025
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mythili-senthilkumar-29mk2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mythilisenth770@gmail.com) 
