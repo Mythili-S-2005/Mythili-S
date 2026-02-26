@@ -1,4 +1,4 @@
-# Hi! I"m Mythili
+# Hi! I'm Mythili
 *Information Technology student at Panimalar Engineering College
 *Focused on Data Science, Machine Learning, and intelligent system design
 *Skilled in transforming complex datasets into actionable insights
